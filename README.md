@@ -7,4 +7,4 @@
 
 
 ### Vercel一键部署
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/palboss/Gspark2API)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Luotianyi-0712/Gsk2API)
